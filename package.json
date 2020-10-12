@@ -1,0 +1,23 @@
+{
+  "name": "masterproject",
+  "version": "1.0.0",
+  "description": "Our teams overall master project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/System-Design-FALL2020/MasterProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/System-Design-FALL2020/MasterProject/issues"
+  },
+  "homepage": "https://github.com/System-Design-FALL2020/MasterProject#readme"
+}

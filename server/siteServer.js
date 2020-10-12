@@ -1,5 +1,6 @@
 const express = require('express')
 const app = express()
+app.use(express.static('client/public'));
 const port = 1337
 
 app.get('/', function (req, res) {
