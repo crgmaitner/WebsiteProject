@@ -15,4 +15,4 @@ function initializePage() {
 
     var clickElement5 = document.getElementById('checkout_button');
     clickElement5.addEventListener('click', () => goToLocation('/cart'))
-}
+}*/
