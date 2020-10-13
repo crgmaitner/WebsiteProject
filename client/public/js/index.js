@@ -1,4 +1,4 @@
-window.addEventListener('load', initializePage)
+/*window.addEventListener('load', initializePage)
 
 function initializePage() {
     var clickElement1 = document.getElementById('home_button');
