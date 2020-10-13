@@ -1,0 +1,9 @@
+#info {
+    justify-self: flex-start;
+    align-self: center;
+
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    text-align: center;
+}
