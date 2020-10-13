@@ -2,12 +2,13 @@
   "name": "masterproject",
   "version": "1.0.0",
   "description": "Our teams overall master project",
-  "main": "index.js",
+  "main": "./server/siteServer.js",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
