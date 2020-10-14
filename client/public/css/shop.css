@@ -1,16 +1,12 @@
-#promos{
-	background-color: lightblue;
-}
-
 #games{
-	background-color: lightgreen;
+    background-color: lightgreen;
 }
 
 .game {
 	display: grid;
 	justify-content: flex-start;
 
-	width: 400px;
+	width: 560px;
 }
 
 .game_image {
