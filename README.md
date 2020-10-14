@@ -4,8 +4,9 @@ Our teams overall master project. For this site, we've decided to go for a video
 # How to Access Our Site.
 In order to access our site and see a preview of what it could look like, follow the steps below.
 1. Clone this repository down to your machine.
-2. Ensure you have a gitbash terminal installed. Follow the link here and choose the one appropriate for your machine: https://git-scm.com/downloads
-3. Navigate into the MasterProject directory within your gitbash terminal. You'll know you've made it when you see "(master)" in the command line prompt. Alternatively, right clicking on the "MasterProject" directory folder and selecting "Git Bash Here" will also bring you to the correct location.
-4. Run the command "node server/siteServer.js" in the bash terminal. The message "Server listening on port 1337." will tell you it is running properly.
-5. Open your favorite web browser and navigate to "localhost:1337" in the search bar.
-6. You've made it to our site!
+2. Ensure you have a gitbash terminal installed. Follow the link here and choose the one that is appropriate for your machine: https://git-scm.com/downloads
+3. Ensure that you have Node.js installed on your machine as well. Follow the link here and choose the one that is recommended for most users: https://nodejs.org/en/
+4. Navigate into the MasterProject directory within your gitbash terminal. You'll know you've made it when you see "(master)" in the command line prompt. Alternatively, right clicking on the "MasterProject" directory folder and selecting "Git Bash Here" will also bring you to the correct location.
+5. Run the command "node server/siteServer.js" in the bash terminal. The message "Server listening on port 1337." will tell you it is running properly. Alternatively, the command "npm run start" will serve the same purpose. 
+6. Open your favorite web browser and navigate to "localhost:1337" in the search bar.
+7. You've made it to our site!
