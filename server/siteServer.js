@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express()
 app.use(express.static('client/public'));
+//app.use(favicon(path.join(__dirname,'public','images','favicon.ico')));
 const port = 1337
 
 app.get('/', function (req, res) {
