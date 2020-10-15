@@ -1,12 +1,12 @@
-#games{
-    background-color: lightgreen;
+#games {
+  background-color: lightgreen;
 }
 
 .game {
-	display: grid;
-	justify-content: flex-start;
+  display: grid;
+  justify-content: flex-start;
 
-	width: 560px;
+  width: 560px;
 }
 
 .game_image {

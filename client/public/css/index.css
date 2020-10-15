@@ -1,19 +1,19 @@
-#promos{
-	background-color: lightblue;
+#promos {
+  background-color: lightblue;
 }
 
-#games{
-	background-color: lightgreen;
+#games {
+  background-color: lightgreen;
 }
 
 .game {
-	display: grid;
-	justify-content: flex-start;
+  display: grid;
+  justify-content: flex-start;
 
-	width: 400px;
+  width: 400px;
 }
 
 .game_image {
-	justify-self: center;
-	width: 240px;
+  justify-self: center;
+  width: 240px;
 }
