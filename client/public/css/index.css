@@ -1,10 +1,10 @@
-#promos {
+/*#promos {
   background-color: lightblue;
 }
 
 #games {
   background-color: lightgreen;
-}
+}*/
 
 .game {
   display: grid;

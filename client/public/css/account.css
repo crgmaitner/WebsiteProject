@@ -8,11 +8,20 @@ h1{
 }
 
 .game_image {
-	justify-self: left;
-	width: 240px;
+	justify-self: center;
+	width: 200px;
 }
 
-#infoPage{
+#accountInfo{
 	border-style: solid;
 	padding: 100px;
+}
+
+#user_info{
+	display: grid;
+	justify-self: flex-start;
+    align-self: center;
+    margin-left: 600px;
+    margin-right: 600px;
+	text-align: center;
 }

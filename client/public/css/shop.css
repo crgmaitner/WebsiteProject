@@ -5,13 +5,12 @@
 .game {
   display: grid;
   justify-content: flex-start;
-
   width: 560px;
 }
 
 .game_image {
 	justify-self: center;
-	width: 240px;
+	width: 200px;
 }
 
 footer {

@@ -27,6 +27,7 @@ main {
 	justify-content: center;
 	grid-row-gap: 20px;
 	margin-top: 60px;
+	background-image: linear-gradient(rgb(248,52,52), white);
 }
 
 .main_section {
