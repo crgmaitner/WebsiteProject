@@ -1,11 +1,3 @@
-/*#promos {
-  background-color: lightblue;
-}
-
-#games {
-  background-color: lightgreen;
-}*/
-
 .game {
   display: grid;
   justify-content: flex-start;

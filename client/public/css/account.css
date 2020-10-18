@@ -2,11 +2,6 @@ h1{
 	text-decoration: underline;
 }
 
-#tiny_text{
-		font-size: small;
-		color: blue;
-}
-
 .game_image {
 	justify-self: center;
 	width: 200px;
