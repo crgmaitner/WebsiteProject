@@ -10,3 +10,6 @@ In order to access our site and see a preview of what it could look like, follow
 5. When in the root folder aka MasterProject run `npm ci` to install the node modules.
 6. Start the server with `npm run start`.
 7. Navigate to http://localhost:1337 in order to view the website.
+
+# IMPORTANT PLEASE READ
+This website template has been created as part of a school project. Therefore, the use of any copywrited image within this website template is for the purposes of demostrating of an understanding of the topics covered within this project ONLY. They are not to be used should this website ever be published on the internet without the proper permissions of the parties who retain ownership rights of these images.
