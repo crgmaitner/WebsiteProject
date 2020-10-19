@@ -10,9 +10,17 @@
 
 .game_image {
 	justify-self: center;
-	width: 200px;
+  width: 200px;
+  align-self: center;
 }
 
 footer {
 	width: 100%;
+}
+
+.shelf_item{
+  width: 340px;
+  padding-left: 100px;
+  padding-right: 50px;
+  text-align: center;
 }

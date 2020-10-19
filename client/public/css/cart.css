@@ -30,4 +30,12 @@ footer {
 .game_image {
 	justify-self: center;
   width: 140px;
+  align-self: center;
 }
+
+.shelf_item{
+	width: 340px;
+	padding-left: 100px;
+  padding-right: 50px;
+  text-align: center;
+  }
