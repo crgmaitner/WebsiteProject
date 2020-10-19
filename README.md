@@ -1,4 +1,4 @@
-#IMPORTANT PLEASE READ
+# IMPORTANT PLEASE READ
 This website template has been created as part of a school project. Therefore, the use of any copywrited image within this website template is for the purposes of demostrating of an understanding of the topics covered within this project ONLY. They are not to be used should this website ever be published on the internet without the proper permissions of the parties who retain ownership rights of these images.
 
 # MasterProject
