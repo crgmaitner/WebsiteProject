@@ -20,7 +20,13 @@ footer {
 
 .shelf_item{
   width: 340px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
   text-align: center;
+}
+
+#search {
+  justify-self: center;
+  align-self: center;
+  padding-top: 20px;
 }
