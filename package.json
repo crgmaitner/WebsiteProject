@@ -4,7 +4,7 @@
   "description": "Our teams overall master project",
   "main": "./server/siteServer.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
